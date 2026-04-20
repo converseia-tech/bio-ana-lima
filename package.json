@@ -1,0 +1,11 @@
+{
+  "name": "bio-ana-lima",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
