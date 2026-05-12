@@ -54,6 +54,22 @@ function App() {
           <span className="btn-arrow">›</span>
         </a>
 
+        {/* Site De Lima Advogados */}
+        <a href="https://delimaadvogados.adv.br" className="btn btn-default">
+          <div className="btn-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+              <path d="M2 12h20"/>
+            </svg>
+          </div>
+          <div className="btn-text">
+            <span className="btn-label">Site De Lima Advogados</span>
+            <span className="btn-sub">delimaadvogados.adv.br</span>
+          </div>
+          <span className="btn-arrow">›</span>
+        </a>
+
         {/* LinkedIn */}
         <a href="https://www.linkedin.com/in/anamarcelylima/" className="btn btn-default">
           <div className="btn-icon">
